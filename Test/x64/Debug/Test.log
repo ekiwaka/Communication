@@ -1,0 +1,5 @@
+﻿  cat.cpp
+  main.cpp
+  Generating Code...
+C:\Users\simpl\Desktop\Test\Test\animal.h(178): warning C4715: 'Animal::animalCommunicate': not all control paths return a value
+  Test.vcxproj -> C:\Users\simpl\Desktop\Test\x64\Debug\Test.exe
